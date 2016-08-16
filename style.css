@@ -39,20 +39,20 @@ li{
 	padding: 10px;
 	background-color: #999999;
 	color: white;
-    text-align:right;
+    	text-align:right;
 }
 
 #container{
 	background-color: #A8DCDC;
 	width: auto;
-    margin: 0;
+    	margin: 0;
 }
 
 #header{
-    background-color: #388E8E;
+    	background-color: #388E8E;
 	text-align:center;
-    padding:10px;
-    margin: 0px;
+    	padding:10px;
+    	margin: 0px;
 	height:70px
 }
 #content{
@@ -68,14 +68,14 @@ li{
 }
 
 #main {
-    margin-right: 90px;
+    	margin-right: 90px;
 	margin-left: 90px;
 	margin-top: 20px;
 	margin-top: 20px;
 }
 
 #mainindex {
-    margin-right: 90px;
+    	margin-right: 90px;
 	margin-left: 90px;
 	margin-top: 20px;
 	margin-top: 20px;
@@ -91,12 +91,12 @@ li{
 #nav ul{
 	list-style-type: none;
 	padding: 0;
-    text-align: center;
+    	text-align: center;
 	margin: 0px;
 }
 
 #nav .selected{
 	font-weight: bold;
-	
+}
 
 
