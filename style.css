@@ -44,8 +44,9 @@ li{
 
 #container{
 	background-color: #A8DCDC;
+    margin: 0px;
+	padding:0px;
 	width: auto;
-    	margin: 0;
 }
 
 #header{
@@ -90,13 +91,28 @@ li{
 
 #nav ul{
 	list-style-type: none;
-	padding: 0;
+	padding: 0px;
     	text-align: center;
 	margin: 0px;
 }
 
 #nav .selected{
 	font-weight: bold;
+}
+
+#leftsec{
+	width:40%;
+	float: left;
+}
+
+#rightsec{
+	width: 42%;
+	float: right;
+}
+
+.featvideo{
+	color: red;
+	margin: 10px;
 }
 
 
